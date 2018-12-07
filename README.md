@@ -1,3 +1,30 @@
-Personnel News App
+# Synergy-Post
+
+> JavaScript & React front end (wrote all styling using vanilla CSS only)
+
+> Ruby on Rails API back end repo: https://github.com/eeeeoo/ram-backend
+
+#### Synergy-Post is a news aggregrator app 
+
+## Installation
 
 ## Demo
+
+## Release History
+* 0.1.0
+    * First official release
+
+## Meta
+
+Jee Yoon Lee – https://eeeeoo.com – jlee66@wellesley.edu
+
+[https://github.com/eeeeoo](https://github.com/eeeeoo)
+
+## Contributing
+
+1. Fork it (<https://github.com/eeeeoo/ram-frontend/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
